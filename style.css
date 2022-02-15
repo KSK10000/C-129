@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 3px 3px 3px blue;
+}
+.note{
+    font-size: 12px;
+    color: black;
+    overflow-wrap: break-word;
+}
+canvas{
+    border: 2px solid red;
+    padding: 5px;
+    margin: 3px;
+    box-shadow: 3px 3px 3px crimson;
+    border-radius: 100px;
+    width: 200px;
+}
